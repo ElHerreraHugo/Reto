@@ -1,0 +1,14 @@
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\bin\Debug\net8.0\parimetro.exe
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\bin\Debug\net8.0\parimetro.deps.json
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\bin\Debug\net8.0\parimetro.runtimeconfig.json
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\bin\Debug\net8.0\parimetro.dll
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\bin\Debug\net8.0\parimetro.pdb
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.dll
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\refint\parimetro.dll
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.pdb
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\parimetro.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Área y perímetro\parimetro\obj\Debug\net8.0\ref\parimetro.dll
