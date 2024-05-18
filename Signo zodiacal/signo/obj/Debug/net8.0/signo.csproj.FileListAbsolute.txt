@@ -1,0 +1,14 @@
+C:\Users\Memo\Desktop\Signo zodiacal\signo\bin\Debug\net8.0\signo.exe
+C:\Users\Memo\Desktop\Signo zodiacal\signo\bin\Debug\net8.0\signo.deps.json
+C:\Users\Memo\Desktop\Signo zodiacal\signo\bin\Debug\net8.0\signo.runtimeconfig.json
+C:\Users\Memo\Desktop\Signo zodiacal\signo\bin\Debug\net8.0\signo.dll
+C:\Users\Memo\Desktop\Signo zodiacal\signo\bin\Debug\net8.0\signo.pdb
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.dll
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\refint\signo.dll
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.pdb
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\signo.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Signo zodiacal\signo\obj\Debug\net8.0\ref\signo.dll
